@@ -28,10 +28,14 @@ Configure the connection settings, such as file location, format, and synchroniz
 Map the necessary fields and attributes from the flat file to the SailPoint schema.
 Test the connection and data import.
  <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://mega.nz/file/q7JkxaxZ#sU0gFdodgr27jtx0cDqiRlNuJBtwGuL5OPWyuiEpqzk)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20143430.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+<h2>scheduling Manager Certification:</h2>  
+ 
+ <p align="center"> 
+  
+  Log in to your SailPoint instance.Navigate to the “Certifications” tab.Select “Create New Certification”.Choose “Manager Certification”Define the scope, frequency, and other settings as needed.Review and confirm the configuration.Save and schedule the certification.<br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
