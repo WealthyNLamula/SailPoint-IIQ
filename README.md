@@ -40,7 +40,7 @@ Test the connection and data import.
 <br />
 <br />
 <h2>Demonstrate the Access request</h2> 
-<p align="center">
+
  process along with approval when a user is applying for the access for himself.The user will log in ,in this case we will assume our user is TL1 and he or she want entitlements(assess priviledges) for the project they in : <br/>
 <img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20152445.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -49,13 +49,15 @@ Confirm  selection :  <br/>
 <img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20152742.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Choose the application  <br/>
+<img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20152840.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Choose the application then select the access after state the reason for the request  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+select the access :<br/>
+<img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20152840.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+state the reason for the request :  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
