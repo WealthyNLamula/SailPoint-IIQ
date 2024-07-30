@@ -41,7 +41,7 @@ Test the connection and data import.
 <br />
 <h2>Demonstrate the Access request</h2> 
 <p align="center">
- process along with approval when a user is applying for the access for himself.: <br/>
+ process along with approval when a user is applying for the access for himself.The user will log in ,in this case we will assume our user is TL1 and he or she want entitlements(assess priviledges) for the project they in : <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
