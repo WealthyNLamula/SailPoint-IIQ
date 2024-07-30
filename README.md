@@ -45,11 +45,13 @@ Test the connection and data import.
 <img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20152445.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm  selection:  <br/>
+Confirm  selection :  <br/>
 <img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20152742.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+ <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Choose the application then select the access after state the reason for the request  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
