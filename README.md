@@ -2,7 +2,7 @@
 
 <h1>Application Onboarding</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ 
 
 <h2>Description</h2>
 SailPoint is a robust IAM solution that helps organizations manage and secure digital identities effectively.SailPoint provides a framework and processes for managing and securing digital identities. It covers critical aspects like user registration, identity authentication, role-based access control, compliance auditing, and reporting.It safeguards sensitive data and systems by preventing unauthorized access and breaches. Additionally, it streamlines identity management tasks, access permissions, and security policies through automation.
@@ -12,11 +12,11 @@ SailPoint is a robust IAM solution that helps organizations manage and secure di
 <h2>Languages and Utilities Used</h2>
 
 - <b>Java</b> 
-- <b>BeanShell/b>
+- <b>BeanShell</b>
 
 <h2>Environments Used </h2>
 
-- <b>web-based VM linux</b> (21H2)
+- <b>web-based VM linux</b> 
 
 <h2>Program walk-through:</h2>
 
