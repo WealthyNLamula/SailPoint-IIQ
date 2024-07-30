@@ -62,7 +62,7 @@ state the reason for the request :  <br/>
 <br />
 <br />
 Access Manager reviews the request and will decide to approve or deny:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20153504.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
