@@ -45,8 +45,8 @@ Test the connection and data import.
 <img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20152445.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirm  selection:  <br/>
+<img src="https://github.com/WealthyNLamula/SailPoint-IIQ/blob/main/Images/Screenshot%202024-07-04%20152742.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
